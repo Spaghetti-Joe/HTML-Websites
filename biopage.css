@@ -16,3 +16,8 @@ h1 {
 div {
   text-align: center;
 }
+
+#FireCPU{
+  background-image: =url(cpufire.jpg);
+  background-size: cover;
+}
